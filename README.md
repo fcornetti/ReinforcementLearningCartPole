@@ -4,4 +4,4 @@ Problem = https://gsurma.medium.com/cartpole-introduction-to-reinforcement-learn
 Solution = 
 Open 📖 file on Google Colab (https://colab.research.google.com) and go 🏃 to Runtime > Run all (Ctrl+F9) 
 
-> <h1 align="center"> "When the solution is simple, God is answering" E. Einstein </h1>
+> "When the solution is simple, God is answering" E. Einstein
