@@ -1,3 +1,3 @@
 # ReinforcementLearningCartPole
 
-Open 📖 on Google Colab file <DOUBLE_TF_DQN.ipynb>  and run 🏃 all (CTRL+F9) 
+Open 📖 file on Google Colab (https://colab.research.google.com) and go 🏃 to Runtime > Run all (Ctrl+F9) 
